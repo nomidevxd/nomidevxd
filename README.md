@@ -3,7 +3,7 @@
   <img height="150" src="https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark"  />
 </div>
 
-![Anzu's github stats](https://github-readme-stats.vercel.app/api?username=kittinan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 <p align="left">
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=314tgcr5gv4e42r6hb4kko323dh4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
